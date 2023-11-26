@@ -19,29 +19,29 @@ Suivre un leader et éviter les obstacles
 | La touche "v" | Crée un nouveau véhicule|
 | La touche "d" | mode de débogage|
 
- ## les screens
+ ## Les screens
  
 1
 
 <img
-  src="image/img1.jpg"
-  alt="Alt text"
-  title="Optional title"
+  src="image/img1.JPEG"
+  alt="img1"
+  title="img1"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
   
 2
 
 <img
-  src="image/img2.jpg"
-  alt="Alt text"
-  title="Optional title"
+  src="image/img2.JPG"
+  alt="img2"
+  title="img2"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
   
 3
 
 <img
-  src="image/img3.jpg"
-  alt="Alt text"
-  title="Optional title"
+  src="image/img3.jpeg"
+  alt="img3"
+  title="img3"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
   
