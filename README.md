@@ -24,7 +24,7 @@ Suivre un leader et éviter les obstacles
 1
 
 <img
-  src="image/img1.JPEG"
+  src="image/img1.jpeg"
   alt="img1"
   title="img1"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
@@ -32,7 +32,7 @@ Suivre un leader et éviter les obstacles
 2
 
 <img
-  src="image/img2.JPG"
+  src="image/img2.jpeg"
   alt="img2"
   title="img2"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
