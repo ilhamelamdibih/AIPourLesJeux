@@ -20,21 +20,27 @@ Suivre un leader et éviter les obstacles
 | La touche "d" | mode de débogage|
 
  ## les screens
-1.
+ 
+1
+
 <img
-  src="/image/img1.jpeg"
+  src="/image/img1.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
-2.
+  
+2
+
 <img
-  src="/image/img2.jpeg"
+  src="/image/img2.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
-3.
+  
+3
+
 <img
-  src="/image/img3.jpeg"
+  src="/image/img3.jpg"
   alt="Alt text"
   title="Optional title"
   style="display: flex;  margin: 0 auto; width:700px; max-width: 200px">
